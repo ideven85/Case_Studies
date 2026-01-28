@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Case_Studies" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Case_Studies" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="/opt/anaconda3/envs/Case_Studies" project-jdk-type="Python SDK" />
 </project>
